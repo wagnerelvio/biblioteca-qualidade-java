@@ -1,5 +1,17 @@
 # Biblioteca Qualidade Java
 
+
+# Biblioteca Qualidade Java
+
+Projeto didático sobre Qualidade de Software, Java, Maven, Eclipse e JUnit 5.
+
+## Infográfico
+
+![Infográfico sobre Qualidade de Software](imagens/infografico-qualidade-software.png)
+
+
+
+
 Projeto didático para aplicar **Programação Orientada a Objetos (POO)** e **Qualidade de Software** em Java, com o **Eclipse IDE**, **Apache Maven** e **JUnit 5**.
 
 O projeto acompanha o material da Unidade 3 de Engenharia de Software e organiza os estudos em três temas:
