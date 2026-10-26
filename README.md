@@ -1,8 +1,5 @@
 # Biblioteca Qualidade Java
 
-
-# Biblioteca Qualidade Java
-
 Projeto didático sobre Qualidade de Software, Java, Maven, Eclipse e JUnit 5.
 
 ## Infográfico
